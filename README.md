@@ -3,6 +3,9 @@ this project base on plinko
 
 this project is about game that drop the ball and bounce collision with peg 
 
+How to use the program :
+clone repository 
+and run in new.py
 demo vid :
 https://youtu.be/38_u8M7QB3M
 uml class diagram 
@@ -29,8 +32,8 @@ the class plinko and paddle is one to many
 
 plinko contain list of paddle that duplicate it self in the bottom
 
-#bug 
 
+#bug
 some ball not collusion as much i aspect
 
 #rating 
