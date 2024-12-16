@@ -4,7 +4,7 @@ this project base on plinko
 this project is about game that drop the ball and bounce collision with peg 
 
 demo vid :
-
+https://youtu.be/38_u8M7QB3M
 uml class diagram 
 https://lucid.app/lucidchart/5028ff75-22af-4987-acd0-42688f760494/edit?viewport_loc=-1829%2C-431%2C4806%2C2463%2CHWEp-vi-RSFO&invitationId=inv_1929b9e5-5894-4e85-aa82-0c7c84c66456
 
